@@ -1,5 +1,5 @@
 # Smart Surveillance Parking Camera
-# Dr. Raghavendra Bhalerao
+# Supervisor: Dr. Raghavendra Bhalerao
 # Jeet Pranav      Satyajeet K Verma   (2022)
 from calendar import c
 from cv2 import FONT_HERSHEY_SCRIPT_SIMPLEX
